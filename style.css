@@ -1,0 +1,267 @@
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        
+        #envent p {
+            margin-left: 95px;
+            font-size: 30px;
+            margin-top: -40px;
+            color: aliceblue;
+        }
+        
+        #envent img {
+            margin-top: 15px;
+            margin-left: 5px;
+        }
+        
+        #search p {
+            margin-left: 50px;
+            margin-top: -35px;
+            font-size: 20px;
+            color: aliceblue;
+        }
+        
+        #about p {
+            margin-left: 55px;
+            margin-top: -40px;
+            font-size: 20px;
+        }
+        
+        #about {
+            margin-left: 150px;
+            margin-top: -38px;
+            color: aliceblue;
+        }
+        
+        #blog p {
+            margin-left: 55px;
+            margin-top: -36px;
+            font-size: 20px;
+        }
+        
+        #blog {
+            margin-left: 320px;
+            margin-top: -30px;
+            color: aliceblue;
+        }
+        
+        #more p {
+            margin-left: 55px;
+            margin-top: -36px;
+            font-size: 20px;
+        }
+        
+        #more {
+            margin-left: 490px;
+            margin-top: -30px;
+            color: aliceblue;
+        }
+        
+        .left {
+            justify-content: left;
+            margin-left: 770px;
+            margin-top: -50px;
+        }
+        
+        header {
+            background-color: #d35649;
+            height: 85px;
+        }
+        /* section1 */
+        
+        .section11 {
+            display: flex;
+            justify-content: center;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin: 40px;
+            padding: 10px;
+            margin-top: 20px;
+        }
+        
+        #filter h1 {
+            display: flex;
+            justify-content: center;
+            margin-top: 30px;
+            font-size: 40px;
+            color: #98a5a5;
+        }
+        
+        .section1 {
+            background-color: #eee;
+            padding: 15px 0px -1px 0px;
+            margin-top: 30px;
+        }
+        
+        #daytime input {
+            padding: 8px 12px 8px 12px;
+        }
+        
+        #final input {
+            padding: 8px 12px 8px 12px;
+        }
+        
+        #initial input {
+            padding: 8px 12px 8px 12px;
+        }
+        
+        #subject input {
+            padding: 8px 12px 8px 12px;
+        }
+        
+        #host input {
+            padding: 8px 12px 8px 12px;
+        }
+        
+        #location input {
+            padding: 8px 12px 8px 12px;
+        }
+        
+        #daytime button {
+            padding: 8px 12px 8px 12px;
+            color: #fff;
+            background-color: #509bd7;
+        }
+        
+        #result {
+            font-size: 30px;
+            display: flex;
+            justify-content: center;
+            color: #98a5a5;
+        }
+        
+        #to img {
+            background-color: #d35649;
+        }
+        
+        figcaption {
+            opacity: 80%;
+            position: relative;
+            bottom: 23px;
+            justify-content: center;
+            color: #fff;
+            font-size: 30px;
+        }
+        
+        #to {
+            display: flex;
+            justify-content: center;
+            justify-content: space-between;
+            padding: 60px;
+            margin: 60px;
+            margin-top: -10px;
+        }
+        /* pied de la page */
+        
+        .foot ul {
+            display: flex;
+            list-style-type: none;
+            justify-content: space-evenly 50px;
+            margin-top: 15px;
+            margin: 0;
+            padding: 0;
+        }
+        
+        footer {
+            background-color: #444;
+            height: 70px;
+        }
+        
+        .foot2 p {
+            color: aliceblue;
+            display: flex;
+            margin-left: 1100px;
+            margin-top: -15px;
+        }
+        
+        .list2 {
+            padding: 1em;
+            border-top: 1px solid #fff;
+            border-bottom: 1px solid #fff;
+        }
+        
+        .footer2 {
+            background-color: #1f1f1f;
+            height: 230px;
+        }
+        
+        #subscribe input {
+            text-align: center;
+            border: 1px solid #444;
+            background-color: #1f1f1f;
+            padding: 5px 20px 5px 20px;
+            color: #fff;
+        }
+        
+        button {
+            background-color: #444;
+            color: #fff;
+            border: 1px;
+            padding: 10px 20px 10px 20px;
+            margin-top: 20px;
+            border-radius: 5px;
+        }
+        
+        #subscribe h1 {
+            color: #fff;
+            margin-left: 100px;
+        }
+        
+        .contact {
+            margin-left: 655px;
+        }
+        
+        .contact h1 {
+            color: #fff;
+            margin-top: -75px;
+        }
+        
+        .contact p {
+            color: #fff;
+            margin-top: 25px;
+            margin-left: -45px;
+        }
+        
+        .contact h4 {
+            color: #d35649;
+            margin-top: 15px;
+            margin-left: -19px;
+        }
+        
+        .about h1 {
+            color: #fff;
+            margin-left: 1100px;
+        }
+        
+        .about p {
+            color: #fff;
+            margin-left: 900px;
+        }
+        
+        .about {
+            margin-top: -105px;
+        }
+        
+        .section1 {
+            background: url("11111/group-1.jpg");
+        }
+        
+        .list1 a {
+            text-decoration: none;
+            border-top: 5px;
+            border-bottom: 5px;
+            color: #fff;
+        }
+        
+        #avantlist1 {
+            display: flex;
+            justify-content: space-between;
+        }
+        
+        #avantlist1 {
+            justify-content: space-between;
+            border-top: 20px;
+            border-bottom: 20px;
+        }
